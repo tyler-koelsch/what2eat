@@ -35,9 +35,9 @@ Cravings are what sorts of flavors sound good. This is sort of hard to explain, 
 - if "Southern food" then "Ghoulash" or "Spicy Collards"
 - if "Japanese food" then "Japanese curry" or "Spicy tofu"
 
-// Sweet
-- Sour
-- Exotic
+[Sweet]
+[Sour]
+[Exotic]
 
 
 

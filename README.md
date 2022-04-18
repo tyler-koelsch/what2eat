@@ -36,10 +36,25 @@ Cravings are what sorts of flavors sound good. This is sort of hard to explain, 
 - if "Japanese food" then "Japanese curry" or "Spicy tofu"
 
 [Sweet]
+- if "Chinese food" then
+- if "American food" then
+- if "Italian food" then
+- if "Southern food" then
+- if "Japanese food" then
+
 [Sour]
+- if "Chinese food" then
+- if "American food" then
+- if "Italian food" then
+- if "Southern food" then
+- if "Japanese food" then
+
 [Exotic]
-
-
+- if "Chinese food" then
+- if "American food" then
+- if "Italian food" then
+- if "Southern food" then
+- if "Japanese food" then
 
 // Option 3 - Allergies
 

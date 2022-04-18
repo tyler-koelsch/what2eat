@@ -16,11 +16,11 @@ This option refers to what the user likes to eat in general, such as their favor
 
 Preferences will only have a few options in this stage of the application:
 
-Pizza - related to "Italian food"
-Burgers - related to "American food"
-Noodles - related to "Chinese food"
-BBQ - related to "Southern food"
-Seafood - related to "Japanese food"
+- Pizza - related to "Italian food"
+- Burgers - related to "American food"
+- Noodles - related to "Chinese food"
+- BBQ - related to "Southern food"
+- Seafood - related to "Japanese food"
 
 Each of these relations will help determine what kind of food the application retrieves. These relations will be explained more later on and will exist within a database. These relations are the backbone of the application and control how it works.
 

@@ -26,6 +26,20 @@ Each of these relations will help determine what kind of food the application re
 
 // Option 2 - Cravings
 
+Cravings are what sorts of flavors sound good. This is sort of hard to explain, but it becomes much clearer when one sees a sample database. This option serves to narrow down what the user might be interested in eating.
+
+- Spicy
+-- if "Chinese food" then "Kung Pao Chicken" or "Spicy Fried Rice"
+-- if "American food" then "Jalapeno Cheeseburger" or "Stuffed Peppers"
+-- if "Italian food" then "Penne Arrabbiata" or "Caprese Salad"
+-- if "Southern food" then "Ghoulash" or "Spicy Collards"
+-- if "Japanese food" then "Japanese curry" or "Spicy tofu"
+- Sweet
+- Sour
+- Exotic
+
+
+
 // Option 3 - Allergies
 
 # The Problem Being Addressed 

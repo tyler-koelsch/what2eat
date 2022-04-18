@@ -1,7 +1,36 @@
 # what2eat
-A plan for an application that helps assist in choosing what to eat.
 
-•	Project description
+"what2eat" (stylized in all lowercase, with "to" stylized as the number 2 to make the name of the application both easy to remember and unique) is a very simple food application that is designed to give users an idea of what they want to eat. This project is being done in accordance with Saint Leo University's Mobile Application Design class.
+
+# Detailed Description
+
+This section will serve to better explain the application and how it will work, or at least the design plans for this application. While I would like for this application to be fairly advanced in what it searches, including being able to pinpoint restaurants, grocery stores, and fresh markets near the user using a GPS system, I do not currently have the technological know-how to make this happen. For that reason, this application will suggest different foods and where one might be able to find them. For example, if the application determines the user wants a burger, it will suggest buying the ingredients for that meal from a nearby fresh market, grocery store, or suggest going to a fast food restaurant such as McDonald's, which can be found in most locations.
+
+# How It Works
+
+How this application will work is retrieving a food suggestion based on a few different options that will be given to the user. Each of these options will be explained below. It should be noted that while this application is still in these early stages, each option will only support a few possible choices, even though the user will be able to enter in their own data in each field.
+
+// Option 1 - Preferences 
+
+This option refers to what the user likes to eat in general, such as their favorite foods, or things that they never get tired of. While the application serves to present new options, this can help in knowing the general flavors that the user likes to eat.
+
+Preferences will only have a few options in this stage of the application:
+
+Pizza - related to "Italian food"
+Burgers - related to "American food"
+Noodles - related to "Chinese food"
+BBQ - related to "Southern food"
+Seafood - related to "Japanese food"
+
+Each of these relations will help determine what kind of food the application retrieves. These relations will be explained more later on and will exist within a database. These relations are the backbone of the application and control how it works.
+
+// Option 2 - Cravings
+
+// Option 3 - Allergies
+
+# The Problem Being Addressed 
+
+
 
       My project is a simple food application that helps somebody find out what they want to eat. Because I do not have the know-how or technological capability or funding to create an application like this that would do exactly as I wanted (as in, the application would function off GPS and work in every city), I would simplify it for the purpose of this project. The name of this application would be "what2eat."
 

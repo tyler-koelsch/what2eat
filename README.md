@@ -4,7 +4,7 @@
 
 # Detailed Description
 
-This section will serve to better explain the application and how it will work, or at least the design plans for this application. While I would like for this application to be fairly advanced in what it searches, including being able to pinpoint restaurants, grocery stores, and fresh markets near the user using a GPS system, I do not currently have the technological know-how to make this happen. For that reason, this application will suggest different foods and where one might be able to find them. For example, if the application determines the user wants a burger, it will suggest buying the ingredients for that meal from a nearby fresh market, grocery store, or suggest going to a fast food restaurant such as McDonald's, which can be found in most locations.
+This section will serve to better explain the application and how it will work, or at least the design plans for this application. While I would like for this application to be fairly advanced in what it searches, including being able to pinpoint restaurants, grocery stores, and fresh markets near the user using a GPS system, I do not currently have the technological know-how to make this happen. For that reason, this application will suggest different foods and where one might be able to find them. For example, if the application determines the user wants a burger, it will suggest buying the ingredients for that meal from a nearby fresh market, grocery store, or suggest going to a fast-food restaurant such as McDonald's, which can be found in most locations.
 
 # How It Works
 
@@ -62,7 +62,7 @@ Allergies are perhaps the most important option. Simply put, this option will el
 
 # The Problem Being Addressed 
 
-The problem this application aims to address is that many people cannot decide what they want to eat. Maybe they wish to try something new, or they are simply just unable to pick between the options they have availible to them. This application will help with that by obtaining a list of options that would help the user pick what they wanted to eat.
+The problem this application aims to address is that many people cannot decide what they want to eat. Maybe they wish to try something new, or they are simply just unable to pick between the options they have available to them. This application will help with that by obtaining a list of options that would help the user pick what they wanted to eat.
      
 # Platform
 
@@ -70,11 +70,15 @@ This application is being developed for Android.
       
 # Front/Back end support
 
-In progress.
+The front end of the application will likely use multiple design and markup languages in order to make it more presentable, including HTML, CSS, and JavaScript. It will also require web performance and browser compatibility, and all of this will need to be tested for usability and accessibility before the publishing of the application.
+
+The back end of the application will most likely be written in a language such as Python or Java for a couple examples of ones that may be used for this. Python is currently preferrable. This portion of the application will also need to address network scalability and availability, as well as database management, transformation, and backup. Possible, the back end of the application also needs to include GPS.
      
 # Functionality
 
-In progress.
+This application is not currently being designed to support GPS, though this is the intended future for the application. Currently, it is a simple search application that suggests a variety of generic dishes to the user. The application currently goes out of its way to mention certain brands, as those may not be currently available to the user. For this reason, when considering functionality, the application does not actually give the user a precise suggestion but rather an idea for a suggestion. For example, it will not mention TGI Friday’s, but it will mention a cheeseburger, with a list of possible ingredients. These ingredients are also currently not named by brand, as the user may not have those brands available to them and may prefer an alternative anyways.
+
+Until GPS is implemented, this is mostly a gimmicky application that serves to waste some time and have fun doing so and will get downloads from this idea. It may help somebody actually get an idea for what they want to eat but will not be able to do a great job of this until GPS is implemented.
       
 # Design (wireframes)
 
